@@ -1,6 +1,6 @@
 # Egghead.io Intro to RxJS marble testing
 
-Code to accompany [egghead.io] Intro to RxJS marble testing lesson.
+Code to accompany [egghead.io](https://egghead.io) Intro to RxJS marble testing lesson.
 
 ### Getting Started
 
