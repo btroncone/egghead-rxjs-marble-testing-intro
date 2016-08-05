@@ -4,7 +4,7 @@ module.exports = wallaby => ({
     {pattern: 'spec/helpers/*.ts', instrument: false}
   ],
 
-  tests: ['spec/**/*-spec.ts'],
+  tests: ['spec/**/*.spec.ts'],
   compilers: {
     '**/*.ts': wallaby.compilers.typeScript({
       module: 1,  // commonjs

@@ -19,5 +19,5 @@ check out the [official documentation](https://wallabyjs.com/docs/index.html).
 At the command line run `npm test`.
 
 
-By default, specs are meant to go in the `spec` folder with other relevant files under the `src` directory.
-This can be configured in the *wallaby.js* or *karma.conf.js* file.
+By default, test specs are meant to go in the `spec` folder with a pattern of `[file-name].spec`.
+If you would like to add other source files, this can be configured in the *wallaby.js* or *karma.conf.js* file.

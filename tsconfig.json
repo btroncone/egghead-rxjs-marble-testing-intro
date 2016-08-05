@@ -1,0 +1,15 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "declaration": false
+  },
+  "files": [
+    "spec/helpers/marble-testing.ts",
+    "spec/helpers/test-helper.ts",
+    "spec/egghead-lesson.spec.ts"
+  ]
+}
