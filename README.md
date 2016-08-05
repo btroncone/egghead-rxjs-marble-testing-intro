@@ -16,6 +16,8 @@ Select the *wallaby.js* configuration file and run. For help running in your fav
 check out the [official documentation](https://wallabyjs.com/docs/index.html).
 
 ### For Karma Users
+**Not currently working**
+
 At the command line run `npm test`.
 
 
